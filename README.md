@@ -15,6 +15,24 @@ A simple To-Do list web application built using Flask and SQLite.
 - SQLite
 - HTML
 
+## 📂 Project Structure
+```bash
+To-Do-List/
+├── main.py
+├── .gitignore
+└── README.md
+```
+- **main.py** – Main Python file containing API logic
+- **.gitignore** – Files ignored by Git
+- **README.md** – Project documentation
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.7 or higher
+- No external libraries required (unless added)
+
 ## How to Run
 1. Clone the repo
 2. Create a virtual environment
